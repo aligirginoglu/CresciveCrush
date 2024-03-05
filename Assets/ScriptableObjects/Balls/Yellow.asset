@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b5094fc68a914a45a0bc7f525e6af01, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  Name: Blue
+  Material: {fileID: 2100000, guid: e5921235fc76b324da3594abe31e83e6, type: 2}
+  Multiplier: 0.05
+  Probability: 1
+  Type: 0
+  Prefab: {fileID: 8017773520806424834, guid: 03f6783116fa9d048ba8f1784dc8f57d, type: 3}
+  Carpan: 
+  Model: {fileID: 9142175766492219929, guid: 7516868ca5b2b854fa2f986c65791fbe, type: 3}
+  ExplotionsEffect: {fileID: 4526787892876279914, guid: c178ad5d9f298e54bbe2c26c497af0c0, type: 3}
+  ExplotionColor: {r: 1, g: 0.95224696, b: 0, a: 1}

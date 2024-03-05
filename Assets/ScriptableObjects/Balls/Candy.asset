@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b5094fc68a914a45a0bc7f525e6af01, type: 3}
+  m_Name: Candy
+  m_EditorClassIdentifier: 
+  Name: Candy
+  Material: {fileID: 2100000, guid: 676ab05a4d15af344939d5e5cd3fb2a3, type: 2}
+  Multiplier: 0.35
+  Probability: 1
+  Type: 7
+  Prefab: {fileID: 5333611368398963481, guid: 385d98d82f8c6e848b3b60c67cbcbcb2, type: 3}
+  Carpan: 
+  Model: {fileID: 6552253110559593209, guid: d0e82147f862676409b73338ba1aace3, type: 3}
+  ExplotionsEffect: {fileID: 6664734515762342165, guid: f5ebc8ad77661a043a756850b4f4b437, type: 3}
+  ExplotionColor: {r: 1, g: 1, b: 1, a: 1}
